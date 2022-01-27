@@ -16,10 +16,16 @@ write an integration in PHP that can be run from the command line and displays t
 # How to use
 
 - PHP:
+
+```
   cd ose-test/php
   php index.php
+```
 
 - React:
+
+```
   cd ose-test/react-demo
   npm install
   npm start
+```
